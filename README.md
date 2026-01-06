@@ -12,23 +12,25 @@ This is a Bethesda Studios Starfield mod that makes the character Barrett into a
 6. Launch Starfield via MO2
 
 ## File Structure
-The mod installs the following directories:
-Data/
-├─ Sound/
-│ └─ Voice/
-│ └─ Starfield.esm/
-│ ├─ npcfajamamasa/
-│ ├─ npcfandromedakepler/
-│ ├─ npcfeilleyankton/
-│ ├─ npcpaulinekeala/
-│ ├─ npcsarahmorgan/
-│ ├─ npcmbarrett/
-│ └─ npcmhelgihauksson/
-│ └─ *.wem
-├─ Strings/
-│ ├─ Starfield_en.DLSTRINGS
-│ ├─ Starfield_en.ILSTRINGS
-│ └─ Starfield_en.STRINGS
-└─ meta.ini
+The mod installs the following directories and files:
+
+- `Data/`
+  - `Sound/`
+    - `Voice/`
+      - `Starfield.esm/`
+        - `npcfajamamasa/`
+        - `npcfandromedakepler/`
+        - `npcfeilleyankton/`
+        - `npcpaulinekeala/`
+        - `npcsarahmorgan/`
+        - `npcmbarrett/`
+        - `npcmhelgihauksson/`
+          - `*.wem`
+  - `Strings/`
+    - `Starfield_en.DLSTRINGS`
+    - `Starfield_en.ILSTRINGS`
+    - `Starfield_en.STRINGS`
+  - `meta.ini`
+
 
 The STRINGS files modify the in-game text, and the Voice folder contains seven audio subfolders for each character involved in quests related to Ervin (Barrett's husband).
