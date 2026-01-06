@@ -30,6 +30,5 @@ The mod installs the following directories and files:
   - `Starfield_en.DLSTRINGS`
   - `Starfield_en.ILSTRINGS`
   - `Starfield_en.STRINGS`
-- `meta.ini`
 
 The STRINGS files modify the in-game text, and the Voice folder contains seven audio subfolders for each character involved in quests related to Ervin (Barrett's husband).
